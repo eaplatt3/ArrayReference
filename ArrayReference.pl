@@ -30,7 +30,7 @@ for ( my $i = 0; $i < 5; $i++){
 		}
 
 print "\n";
-print "Elements In Array & Reference Location"
+print "Elements In Array & Reference Location";
 print "\n";
 
 foreach my $strings (@$stringsRef){
